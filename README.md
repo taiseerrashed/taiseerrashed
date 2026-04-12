@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 💫 I'm Taiseer Salah 
-I'm Front end developer | React developer 
-I'm looking for Frontend developer position 
+# 💫 I'm Taiseer Salah
+I'm a Front-end developer | React developer 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CbpesqUwG/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taiseerrashed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taiseer-salah-9b0a3221a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/taiseerrashed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taiseerrashed@gmail.com) 
