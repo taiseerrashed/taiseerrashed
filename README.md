@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# 💫 About Me:
-I'm Front end developer 
+# 💫 I'm Taiseer Salah 
+I'm Front end developer | React developer 
 I'm looking for Frontend developer position 
 
 ## 🌐 Socials:
